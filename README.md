@@ -1,2 +1,2 @@
 # AdventJS
-This is a repo for the challenges from [AdventJS](https://adventjs.dev/es#retos).
+Este es un repo para los desafíos de código en [AdventJS](https://adventjs.dev/es#retos).
